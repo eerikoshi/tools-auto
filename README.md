@@ -3,8 +3,11 @@
 Auto Update & Upgrade
 
 Auto Install Python3
+
 Auto Install Python3-pip
+
 Auto Install Python3-venv
+
 Auto Git Clone , install venv , install module in file requirements.txt
 
 ```sh
